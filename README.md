@@ -1,4 +1,4 @@
 # diff-practice2
 git動画講座diff練習用
-複数ファイル変更用（3rd)
-mergetoolコンフリクト用（featureブランチ）
+ローカルリポで変更
+rebase-practiceブランチで変更（rebase用）
